@@ -6,7 +6,7 @@ The dataset I've tested is the popular MNIST digits dataset.
 By configurable I mean that you can set how many hidden layers the model should have
 and specify the amount of nodes on each layer.
 
-You can also choose whether to use ReLU or Sigmoid as the activation function.
+The sigmoid is the activation function. I will implement ReLU in a future repository.
 
 # Shape of neural net
 Right now, I haven't found that much of an improvement by incorporating more than one hidden layer.
