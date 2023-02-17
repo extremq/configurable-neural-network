@@ -14,6 +14,8 @@ I also observed that the number of layers should thin out, otherwise it wont tra
 For a 784 - 50 - 20 - 10 neural net I've got 95.13% accuracy at 5 epochs, while a 784 - 300 - 10 gets a 97% at 5 epochs.
 Both used the sigmoid.
 
+[](https://i.imgur.com/axWu9WU.png)
+
 # GPU vs CPU
 I've also included a pytorch version which starts to gain significant speed as we increase the number of weights.
 
