@@ -1,6 +1,8 @@
 # Configurable neural network
 This is an example of a configurable neural network.
 
+The dataset I've tested is the popular MNIST digits dataset.
+
 By configurable I mean that you can set how many hidden layers the model should have
 and specify the amount of nodes on each layer.
 
